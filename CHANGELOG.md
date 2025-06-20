@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-24)
+## Unreleased (2025-06-20)
 
 <section class="features">
 
@@ -34,6 +34,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`b5bffa7`](https://github.com/stdlib-js/stdlib/commit/b5bffa72ea42e7e856290c53c493650379487888) - **test:** align test descriptions between main and native test files _(by Philipp Burckhardt)_
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`fc0ff17`](https://github.com/stdlib-js/stdlib/commit/fc0ff171dab59e73e1748c1bff504166adc826c3) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
 -   [`318f280`](https://github.com/stdlib-js/stdlib/commit/318f28057bf00d910a656c4f315b8de17f89d3b5) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`ed04d90`](https://github.com/stdlib-js/stdlib/commit/ed04d90cd3540e5a3b0b5cb49f623c62935edd1e) - **feat:** add C implementation for `stats/base/dists/rayleigh/mode` [(#4024)](https://github.com/stdlib-js/stdlib/pull/4024) _(by Prashant Kumar Yadav)_
@@ -48,8 +50,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Karan Anand
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
 
